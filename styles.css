@@ -29,6 +29,7 @@ main,
 .parallax::before {
   content: "";
   background: url(img/bg_pattern.png) repeat;
+  background-color: rgba(16, 16, 32, 0.25) !important;
   top: 0;
   left: 0;
   bottom: 0;
@@ -80,11 +81,12 @@ main,
 #carousel,
 .attribution {
   color: #FFF;
-  text-shadow: .1rem .1rem .2rem rgba(16, 16, 32, 0.75);
+  text-shadow: .2rem .2rem .3rem rgba(16, 16, 32, 0.75);
 }
 
-#carousel container {
-  z-index: 50;
+#carousel .message {
+  z-index: 50 !important;
+  /* background-color: rgba(16, 16, 32, 0.5) !important; */
 }
 
 #marketing_01 {
@@ -99,8 +101,6 @@ main,
 
 .parallax {
   position: relative;
-  /* overflow: hidden; */
-  /* background-image: url(img/parallax_00.jpg); */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
