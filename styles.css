@@ -29,7 +29,7 @@ main,
 .parallax::before {
   content: "";
   background: url(img/bg_pattern.png) repeat;
-  background-color: rgba(16, 16, 32, 0.25) !important;
+  /* background-color: rgba(16, 16, 32, 0.25) !important; */
   top: 0;
   left: 0;
   bottom: 0;
