@@ -1,1 +1,0 @@
-# eLucidata LLC
