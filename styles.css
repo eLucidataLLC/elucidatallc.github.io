@@ -83,6 +83,10 @@ main,
   text-shadow: .1rem .1rem .2rem rgba(16, 16, 32, 0.75);
 }
 
+#carousel container {
+  z-index: 50;
+}
+
 #marketing_01 {
   background-image: url(img/parallax_00.jpg);
   position: relative;
