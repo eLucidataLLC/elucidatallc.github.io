@@ -78,15 +78,11 @@ main,
   background: #f5f1ec;
 }
 
-#carousel,
-.attribution {
+.attribution,
+.message {
   color: #FFF;
   text-shadow: .2rem .2rem .3rem rgba(16, 16, 32, 0.75);
-}
-
-#carousel .message {
   z-index: 50 !important;
-  /* background-color: rgba(16, 16, 32, 0.5) !important; */
 }
 
 #marketing_01 {
