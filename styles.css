@@ -37,11 +37,17 @@ main,
   position: absolute;
 }
 
-.attribution {
-  position: relative;
+#pliscolmifran {
+  position: fixed;
+  top:2.5rem;
+  left:68%;
+  z-index: 100;
+}
+
+#carousel .attribution {
+  position: absolute;
+  bottom:0;
   z-index: 50;
-  margin: 5rem .5rem 0 0;
-  float: right;
 }
 
 .content {
@@ -148,6 +154,15 @@ main,
   }
 }
 
+@media (max-width: 575.98px) {
+  .carousel-control-prev,
+  .carousel-control-next,
+  .carousel-indicators {
+    display: none;
+  }
+}
+
+
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   ul.navbar-nav {
@@ -168,10 +183,13 @@ main,
 }
 
 /* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {}
+@media (min-width: 992px) {
+}
 
 /* X-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+
+}
 
 /* XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) {}
