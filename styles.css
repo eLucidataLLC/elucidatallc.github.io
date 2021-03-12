@@ -218,11 +218,11 @@ footer h3 {
    background-color: #c39c00;
    border-color: #c39c00;
 }
-.btn-primary:focus,
+/*.btn-primary:focus,
 .btn-primary:visited{
    background-color: #c39c00;
    border-color: #c39c00;
-}
+}*/
 .message .btn {
     text-shadow: .1rem .1rem .2rem rgba(16, 16, 32, 0.70);
 }
