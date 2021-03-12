@@ -210,15 +210,14 @@ footer h3 {
 
 /*..............Churres's Stile................*/
 
-/*.btn-primary {
+.btn-primary {
     background-color: #dbaf00;
     border-color: #dbaf00;
 }
-.btn-primary:hover,
-.btn-primary:visited {
-   background-color: #c39c00!important;
+.btn-primary:hover{
+   background-color: #c39c00;
    border-color: #c39c00;
 }
 .message .btn {
     text-shadow: .1rem .1rem .2rem rgba(16, 16, 32, 0.70);
-}*/
+}
