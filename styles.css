@@ -215,7 +215,7 @@ footer h3 {
     border-color: #dbaf00;
 }
 .btn-primary:hover,
-.btn-primary:active {
+.btn-primary:visited {
    background-color: #c39c00!important;
    border-color: #c39c00;
 }
