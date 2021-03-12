@@ -208,7 +208,7 @@ footer h3 {
 @media (min-width: 1400px) {}
 
 /*..........Churres's Stile............*/
-.btn-primary:hover {
+#marketing_00 .btn-primary:hover {
  background-color:#caa200!important;
 border-color:#caa200!important;
 }
