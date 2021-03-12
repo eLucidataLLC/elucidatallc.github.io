@@ -218,3 +218,6 @@ footer h3 {
    background-color: #c39c00;
    border-color: #c39c00;
 }
+attribution, .message {
+    text-shadow: .1rem .1rem .2rem rgba(16, 16, 32, 0.70);
+}
