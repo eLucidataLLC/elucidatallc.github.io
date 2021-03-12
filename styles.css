@@ -207,7 +207,9 @@ footer h3 {
 /* XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) {}
 
-/*..........Churres's Stile............*/
+
+/*..............Churres's Stile................*/
+
 .btn-primary {
     background-color: #dbaf00;
     border-color: #dbaf00;
