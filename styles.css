@@ -216,7 +216,7 @@ footer h3 {
 }
 .btn-primary:hover,
 .btn-primary:active {
-   background-color: #c39c00;
+   background-color: #c39c00!important;
    border-color: #c39c00;
 }
 .message .btn {
