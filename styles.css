@@ -209,6 +209,6 @@ footer h3 {
 
 /*..........Churres's Stile............*/
 .btn-primary:hover {
- background-color:#caa200;
-border-color:#caa200;
+ background-color:#caa200!important;
+border-color:#caa200!important;
 }
