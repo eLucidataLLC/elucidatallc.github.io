@@ -226,3 +226,6 @@ footer h3 {
 .message .btn {
     text-shadow: .1rem .1rem .2rem rgba(16, 16, 32, 0.70);
 }
+#services .icon {
+    color: #dbaf00;
+}
