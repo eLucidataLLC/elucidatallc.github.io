@@ -214,7 +214,8 @@ footer h3 {
     background-color: #dbaf00;
     border-color: #dbaf00;
 }
-.btn-primary:hover {
+.btn-primary:hover,
+.btn-primary:active {
    background-color: #c39c00;
    border-color: #c39c00;
 }
