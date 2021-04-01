@@ -208,8 +208,10 @@ footer h3 {
 @media (min-width: 1400px) {}
 
 
-/*..............Churres's Stile................*/
-
+/*..............Churres's Style................*/
+.navbar-brand {
+  margin-left: 0.5rem;
+}
 .btn-primary {
     background-color: #dbaf00;
     border-color: #dbaf00;
