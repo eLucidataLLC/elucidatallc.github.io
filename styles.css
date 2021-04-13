@@ -232,8 +232,12 @@ footer h3 {
     color: #dbaf00;
 }
 a {
-    color: #dbaf00;
+  color: #dbaf00;
 }
+a:hover {
+    color: #c39c00;
+}
+
 /*...............................*/
 @media (max-width: 767px) {
   .navbar-brand {
