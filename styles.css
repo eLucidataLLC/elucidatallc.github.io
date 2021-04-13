@@ -231,6 +231,9 @@ footer h3 {
 #services .icon {
     color: #dbaf00;
 }
+a {
+    color: #dbaf00;
+}
 /*...............................*/
 @media (max-width: 767px) {
   .navbar-brand {
