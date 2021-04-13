@@ -237,6 +237,9 @@ a {
 a:hover {
     color: #c39c00;
 }
+.bg-warning {
+    background-color: #222222 !important;
+}
 
 /*...............................*/
 @media (max-width: 767px) {
