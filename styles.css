@@ -240,7 +240,9 @@ a:hover {
 .bg-warning {
     background-color: #222222 !important;
 }
-
+#about .icon {
+    color: #dbaf00;
+}
 /*...............................*/
 @media (max-width: 767px) {
   .navbar-brand {
